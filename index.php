@@ -10,6 +10,6 @@ require_once("db.php");
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-    <h1>Page d'accueil</h1>
+    <h1>Page d'accueil !!!!!</h1>
 </body>
 </html>
